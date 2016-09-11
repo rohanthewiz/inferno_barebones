@@ -1,4 +1,7 @@
-.idea/
 node_modules/
-dist/*
 npm-debug.log
+
+.idea/
+
+dist/*
+!dist/.keep
